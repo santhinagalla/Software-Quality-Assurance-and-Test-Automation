@@ -20,4 +20,4 @@ Our goal is to design a Juke Box that allows customers to select songs they want
    * Class Diagram
    * Sequence Diagram
 ## Slides
- * https://docs.google.com/presentation/d/18tD7LzdnorjRJTbeKHGh4gssR39MvuyNoeM0b1DWhvU/edit#slide=id.gf7a168b5df_1_168
+ * https://docs.google.com/presentation/d/18tD7LzdnorjRJTbeKHGh4gssR39MvuyNoeM0b1DWhvU/edit?usp=sharing
